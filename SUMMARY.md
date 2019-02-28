@@ -7,3 +7,9 @@
 
 * [Общее описание](skriptovyi-yazyk/obshee-opisanie.md)
 
+## screenfx
+
+* [FxActionCell](screenfx/fxactioncell.md)
+* [ShowSprite](screenfx/showsprite.md)
+* [ShowText](screenfx/showtext.md)
+
