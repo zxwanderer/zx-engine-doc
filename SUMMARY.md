@@ -13,3 +13,9 @@
 * [ShowSprite](screenfx/showsprite.md)
 * [ShowText](screenfx/showtext.md)
 
+## screenfx
+
+* [FxActionCell](screenfx-1/fxactioncell.md)
+* [ShowSprite](screenfx-1/showsprite.md)
+* [ShowText](screenfx-1/showtext.md)
+
