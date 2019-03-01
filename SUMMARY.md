@@ -13,3 +13,12 @@
 * [ShowSprite](screenfx/showsprite.md)
 * [ShowText](screenfx/showtext.md)
 
+## Entities
+
+* [SetMapCell](entities/setmapcell.md)
+* [SetMapCellOnHero](entities/setmapcellonhero.md)
+* [WearItem](entities/wearitem.md)
+* [GetWearItem](entities/getwearitem.md)
+* [CharRotMove](entities/charrotmove.md)
+* [CharDoDir](entities/chardodir.md)
+
