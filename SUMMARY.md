@@ -22,3 +22,7 @@
 * [CharRotMove](entities/charrotmove.md)
 * [CharDoDir](entities/chardodir.md)
 
+## text
+
+* [printScreen](text/printscreen.md)
+
